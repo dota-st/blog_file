@@ -54,18 +54,30 @@
 /* 鼠标图标 */
 body {
     background: rgba(255, 255, 255, .5);
+<<<<<<< HEAD
     cursor: url(https://cdn.wlhhlc.top/Jkll8I.png), auto;
+=======
+    cursor: url(http://cdn.wlhhlc.top/Jkll8I.png), auto;
+>>>>>>> first
     margin: 0;
 	font-size: 15px;
 }
 a:hover{
     text-decoration: none;
+<<<<<<< HEAD
     cursor: url(https://cdn.wlhhlc.top/JkuClT.png), auto;
+=======
+    cursor: url(http://cdn.wlhhlc.top/JkuClT.png), auto;
+>>>>>>> first
 }
 
 
 #veditor {
+<<<<<<< HEAD
     background-image: url(https://cdn.wlhhlc.top/20200409110727.webp);
+=======
+    background-image: url(http://cdn.wlhhlc.top/20200409110727.webp);
+>>>>>>> first
     background-size: contain;
     background-repeat: no-repeat;
     background-position: right;
