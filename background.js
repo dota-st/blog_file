@@ -48,8 +48,8 @@ function aplayer_test() {
     audio: [{
     name: '爱能做到的还有什么',
     artist: 'RADWIMPS',
-    url: 'https://cdn.jsdelivr.net/gh/dota-st/blog_file@master/31.%20%E6%84%9B%E3%81%AB%E3%81%A7%E3%81%8D%E3%82%8B%E3%81%93%E3%81%A8%E3%81%AF%E3%81%BE%E3%81%A0%E3%81%82%E3%82%8B%E3%81%8B%E3%81%84%EF%BC%88%E7%88%B1%E8%83%BD%E5%81%9A%E5%88%B0%E7%9A%84%E8%BF%98%E6%9C%89%E4%BB%80%E4%B9%88%EF%BC%89.mp3',
-    cover: 'https://cdn.jsdelivr.net/gh/dota-st/blog_file@master/0e7a834f3fb84383a6ba9405b3c968f6.jpeg',
+    url: 'https://cdn.jsdelivr.net/gh/dota-st/blog_file@v1.5/31.%20%E6%84%9B%E3%81%AB%E3%81%A7%E3%81%8D%E3%82%8B%E3%81%93%E3%81%A8%E3%81%AF%E3%81%BE%E3%81%A0%E3%81%82%E3%82%8B%E3%81%8B%E3%81%84%EF%BC%88%E7%88%B1%E8%83%BD%E5%81%9A%E5%88%B0%E7%9A%84%E8%BF%98%E6%9C%89%E4%BB%80%E4%B9%88%EF%BC%89.mp3',
+    cover: 'https://cdn.jsdelivr.net/gh/dota-st/blog_file@v1.5/0e7a834f3fb84383a6ba9405b3c968f6.jpeg',
     theme: "#8e8cd8",
    }]
   });
