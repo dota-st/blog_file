@@ -14,6 +14,11 @@
     color: #5c0404;
 }
 
+.layout_post>#post {
+    /* 以下代表白色透明度为0.7 */
+    background: rgba(255,255,255,0.7);
+}
+
 
 /* 滚动条 */
 ::-webkit-scrollbar {
