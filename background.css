@@ -84,3 +84,11 @@ a:hover{
     background-color: rgba(255, 255, 255, 0);
     resize: vertical
 }
+
+#APlayer吸底标签自动缩入
+.aplayer.aplayer-fixed.aplayer-narrow .aplayer-body:hover {
+	left:0px !important
+}
+.aplayer.aplayer-fixed.aplayer-narrow .aplayer-body {
+	left:-66px !important
+}

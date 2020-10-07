@@ -44,14 +44,38 @@ function aplayer_test() {
     container: document.getElementById('aplayer'),
 	autoplay: true,
 	fixed: true,
+    order: 'list',
     volume: 0.6,
-    audio: [{
-    name: '爱能做到的还有什么',
-    artist: 'RADWIMPS',
-    url: 'https://cdn.jsdelivr.net/gh/dota-st/blog_file@v1.5/31.%20%E6%84%9B%E3%81%AB%E3%81%A7%E3%81%8D%E3%82%8B%E3%81%93%E3%81%A8%E3%81%AF%E3%81%BE%E3%81%A0%E3%81%82%E3%82%8B%E3%81%8B%E3%81%84%EF%BC%88%E7%88%B1%E8%83%BD%E5%81%9A%E5%88%B0%E7%9A%84%E8%BF%98%E6%9C%89%E4%BB%80%E4%B9%88%EF%BC%89.mp3',
-    cover: 'https://cdn.jsdelivr.net/gh/dota-st/blog_file@v1.5/0e7a834f3fb84383a6ba9405b3c968f6.jpeg',
-    theme: "#8e8cd8",
-   }]
+    audio: [
+		{
+			name: '爱能做到的还有什么',
+			artist: 'RADWIMPS',
+			url: 'https://cdn.jsdelivr.net/gh/dota-st/blog_file@v1.5/31.%20%E6%84%9B%E3%81%AB%E3%81%A7%E3%81%8D%E3%82%8B%E3%81%93%E3%81%A8%E3%81%AF%E3%81%BE%E3%81%A0%E3%81%82%E3%82%8B%E3%81%8B%E3%81%84%EF%BC%88%E7%88%B1%E8%83%BD%E5%81%9A%E5%88%B0%E7%9A%84%E8%BF%98%E6%9C%89%E4%BB%80%E4%B9%88%EF%BC%89.mp3',
+			cover: 'https://cdn.jsdelivr.net/gh/dota-st/blog_file@v1.5/0e7a834f3fb84383a6ba9405b3c968f6.jpeg',
+			theme: "#8e8cd8"
+	   },
+	   {	
+		  	name: 'rain',
+			artist: '秦基博',
+			url: 'https://cdn.jsdelivr.net/gh/dota-st/blog_file/rain.mp3',
+			cover: 'https://cdn.jsdelivr.net/gh/dota-st/blog_file/2cfa55ac06aa76dd4ad9f52479db4755ef2ca53b.jpg%401320w_742h.webp.jpg',
+			theme: '#8e8cd8'
+	   },
+	   {
+		    name: 'いつも何度でも',
+			artist: '木村弓',
+			url: 'https://cdn.jsdelivr.net/gh/dota-st/blog_file/%E3%81%84%E3%81%A4%E3%82%82%E4%BD%95%E5%BA%A6%E3%81%A7%E3%82%82.mp3',
+			cover: 'https://cdn.jsdelivr.net/gh/dota-st/blog_file/T002R300x300M0000038JOTF1Nh9Du.jpg',
+			theme: '#8e8cd8'
+	   },
+	   {
+		    name: '月光の雲海',
+			artist: '久石让',
+			url: 'https://cdn.jsdelivr.net/gh/dota-st/blog_file/%E6%9C%88%E5%85%89%E3%81%AE%E9%9B%B2%E6%B5%B7.mp3',
+			cover: 'https://cdn.jsdelivr.net/gh/dota-st/blog_file/T002R300x300M000001sw6DE3cV1T8.jpg',
+			theme: '#8e8cd8'
+	   }
+   ]
   });
 }
 window.aplayer_test()
