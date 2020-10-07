@@ -55,9 +55,9 @@
 body {
     background: rgba(255, 255, 255, .5);
 <<<<<<< HEAD
-    cursor: url(https://cdn.jsdelivr.net/gh/dota-st/blog_file@v1.5/Jkll8I.png), auto;
+    cursor: url(https://cdn.jsdelivr.net/gh/dota-st/blog_file/Jkll8I.png), auto;
 =======
-    cursor: url(https://cdn.jsdelivr.net/gh/dota-st/blog_file@v1.5/Jkll8I.png), auto;
+    cursor: url(https://cdn.jsdelivr.net/gh/dota-st/blog_file/Jkll8I.png), auto;
 >>>>>>> first
     margin: 0;
 	font-size: 15px;
@@ -65,18 +65,18 @@ body {
 a:hover{
     text-decoration: none;
 <<<<<<< HEAD
-    cursor: url(https://cdn.jsdelivr.net/gh/dota-st/blog_file@v1.5/JkuClT.png), auto;
+    cursor: url(https://cdn.jsdelivr.net/gh/dota-st/blog_file/JkuClT.png), auto;
 =======
-    cursor: url(https://cdn.jsdelivr.net/gh/dota-st/blog_file@v1.5/JkuClT.png), auto;
+    cursor: url(https://cdn.jsdelivr.net/gh/dota-st/blog_file/JkuClT.png), auto;
 >>>>>>> first
 }
 
 
 #veditor {
 <<<<<<< HEAD
-    background-image: url(https://cdn.jsdelivr.net/gh/dota-st/blog_file@v1.5/20200409110727.webp);
+    background-image: url(https://cdn.jsdelivr.net/gh/dota-st/blog_file/20200409110727.webp);
 =======
-    background-image: url(https://cdn.jsdelivr.net/gh/dota-st/blog_file@v1.5/20200409110727.webp);
+    background-image: url(https://cdn.jsdelivr.net/gh/dota-st/blog_file/20200409110727.webp);
 >>>>>>> first
     background-size: contain;
     background-repeat: no-repeat;
