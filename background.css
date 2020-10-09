@@ -57,24 +57,55 @@
 
 
 /* 鼠标图标 */
+
 body {
-    background: rgba(255, 255, 255, .5);
-<<<<<<< HEAD
-    cursor: url(https://cdn.jsdelivr.net/gh/dota-st/blog_file/Jkll8I.png), auto;
-=======
-    cursor: url(https://cdn.jsdelivr.net/gh/dota-st/blog_file/Jkll8I.png), auto;
->>>>>>> first
-    margin: 0;
-	font-size: 15px;
+    cursor: url(https://cdn.jsdelivr.net/gh/dota-st/blog_file@master/Jkll8I.png), auto;
+	font-size: 16px;
 }
-a:hover{
+
+
+/*a标签*/
+
+a:hover {
+    cursor: url(https://cdn.jsdelivr.net/gh/dota-st/blog_file@master/JkuClT.png), auto;
+}
+
+
+/*按钮*/
+
+button:hover {
+    cursor: url(https://cdn.jsdelivr.net/gh/dota-st/blog_file@master/JkuClT.png), auto;
+}
+
+
+/*i标签*/
+
+i:hover {
+    cursor: url(https://cdn.jsdelivr.net/gh/dota-st/blog_file@master/JkuClT.png), auto;
+}
+
+
+/*页脚a标签*/
+
+#footer-wrap a:hover {
     text-decoration: none;
-<<<<<<< HEAD
-    cursor: url(https://cdn.jsdelivr.net/gh/dota-st/blog_file/JkuClT.png), auto;
-=======
-    cursor: url(https://cdn.jsdelivr.net/gh/dota-st/blog_file/JkuClT.png), auto;
->>>>>>> first
+    cursor: url(https://cdn.jsdelivr.net/gh/dota-st/blog_file@master/JkuClT.png), auto;
 }
+
+
+/*分页器*/
+
+#pagination .page-number:hover {
+    cursor: url(https://cdn.jsdelivr.net/gh/dota-st/blog_file@master/JkuClT.png), auto;
+}
+
+
+/*头部的导航栏*/
+
+#nav .site-page:hover {
+    cursor: url(https://cdn.jsdelivr.net/gh/dota-st/blog_file@master/JkuClT.png), auto;
+}
+
 
 
 #veditor {
