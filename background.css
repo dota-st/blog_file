@@ -59,7 +59,7 @@
 /* 鼠标图标 */
 
 body {
-    cursor: url(https://cdn.jsdelivr.net/gh/dota-st/blog_file@master/Jkll8I.png), auto;
+    cursor: url(https://cdn.jsdelivr.net/gh/dota-st/blog_file@master/huaji1.jpg), auto;
 	font-size: 16px;
 }
 
@@ -67,21 +67,21 @@ body {
 /*a标签*/
 
 a:hover {
-    cursor: url(https://cdn.jsdelivr.net/gh/dota-st/blog_file@master/JkuClT.png), auto;
+    cursor: url(https://cdn.jsdelivr.net/gh/dota-st/blog_file@master/huaji2.jpg), auto;
 }
 
 
 /*按钮*/
 
 button:hover {
-    cursor: url(https://cdn.jsdelivr.net/gh/dota-st/blog_file@master/JkuClT.png), auto;
+    cursor: url(https://cdn.jsdelivr.net/gh/dota-st/blog_file@master/huaji2.jpg), auto;
 }
 
 
 /*i标签*/
 
 i:hover {
-    cursor: url(https://cdn.jsdelivr.net/gh/dota-st/blog_file@master/JkuClT.png), auto;
+    cursor: url(https://cdn.jsdelivr.net/gh/dota-st/blog_file@master/huaji2.jpg), auto;
 }
 
 
@@ -89,21 +89,21 @@ i:hover {
 
 #footer-wrap a:hover {
     text-decoration: none;
-    cursor: url(https://cdn.jsdelivr.net/gh/dota-st/blog_file@master/JkuClT.png), auto;
+    cursor: url(https://cdn.jsdelivr.net/gh/dota-st/blog_file@master/huaji2.jpg), auto;
 }
 
 
 /*分页器*/
 
 #pagination .page-number:hover {
-    cursor: url(https://cdn.jsdelivr.net/gh/dota-st/blog_file@master/JkuClT.png), auto;
+    cursor: url(https://cdn.jsdelivr.net/gh/dota-st/blog_file@master/huaji2.jpg), auto;
 }
 
 
 /*头部的导航栏*/
 
 #nav .site-page:hover {
-    cursor: url(https://cdn.jsdelivr.net/gh/dota-st/blog_file@master/JkuClT.png), auto;
+    cursor: url(https://cdn.jsdelivr.net/gh/dota-st/blog_file@master/huaji2.jpg), auto;
 }
 
 
