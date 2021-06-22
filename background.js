@@ -47,6 +47,20 @@ function aplayer_test() {
     order: 'list',
     volume: 0.6,
     audio: [
+        {
+			name: '路小雨',
+			artist: 'RADWIMPS',
+			url: 'https://cdn.jsdelivr.net/gh/dota-st/blog_file@master/%E8%B7%AF%E5%B0%8F%E9%9B%A8.flac',
+			cover: 'https://cdn.jsdelivr.net/gh/dota-st/blog_file@master/%E4%B8%8D%E8%83%BD%E8%AF%B4%E7%9A%84%E7%A7%98%E5%AF%86.jpg',
+			theme: "#8e8cd8"
+	    },
+	    {
+			name: '淡水海边',
+			artist: 'RADWIMPS',
+			url: 'https://cdn.jsdelivr.net/gh/dota-st/blog_file@master/%E6%B7%A1%E6%B0%B4%E6%B5%B7%E8%BE%B9.flac',
+			cover: 'https://cdn.jsdelivr.net/gh/dota-st/blog_file@master/%E4%B8%8D%E8%83%BD%E8%AF%B4%E7%9A%84%E7%A7%98%E5%AF%86.jpg',
+			theme: "#8e8cd8"
+	    },
 		{
 			name: '爱能做到的还有什么',
 			artist: 'RADWIMPS',
