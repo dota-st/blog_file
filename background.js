@@ -26,12 +26,6 @@ img.onload = function () { startSakura(); }
 function stopp() { if (staticx) { var child = document.getElementById("canvas_sakura"); child.parentNode.removeChild(child); window.cancelAnimationFrame(stop); staticx = false; } else { startSakura(); } }
 
 
-
-// 设置页脚博主会动的心
-$(document).ready(function(e){
-    $('.copyright').html('©2020 <i style="color:#FF6A6A;animation: announ_animation 0.8s linear infinite;" class="fa fa-heartbeat"></i> dota_st');
-})
-
 function foot_tm() {
 	// 移除页脚样式
 	var app = document.getElementById('footer');
